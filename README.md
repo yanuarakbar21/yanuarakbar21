@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/yanuarakbar21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Code+is+poetry%2C+IoT+is+reality;Belajar+%3E+Perfect;Semester+4+%E2%86%92+5+%7C+UB+%F0%9F%90%89" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=mahasiswa+tekhnologi+Informasi;Universitas+Brawijaya;IoT+%26+AI+Enthusiast;Semester+4+%E2%86%92+5" alt="Typing SVG" />
   </a>
 </p>
 
