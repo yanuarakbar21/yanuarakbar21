@@ -11,19 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: yanuarakbar21
           outputs: |
-            snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: .
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/snake.svg
+            dist/snake.gif
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          mkdir -p dist
+          cp snake.svg dist/ 2>/dev/null || true
+          git add dist/snake.svg
+          git commit -m "Update snake animation"
+          git push origin output --force
