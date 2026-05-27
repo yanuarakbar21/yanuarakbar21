@@ -54,28 +54,22 @@
 
 ## &#x1F4F1; Featured Project
 
-<table>
-  <tr>
-    <td width="300" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Wuppi%20Store&fontSize=30&fontAlign=50&fontAlignY=50" width="100%"/>
-      <br/>
-      <p><b>Wuppi Store</b> - E-commerce platform built with Laravel</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-        <br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black"/>
-      </p>
-      <a href="https://github.com/yanuarakbar21/wuppi-store">
-        <img src="https://img.shields.io/badge/Lihat%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/yanuarakbar21/wuppi-store">
+    <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=yanuarakbar21&repo=wuppi-store&theme=radical" alt="Wuppi Store repo card" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Wuppi Store</b> - E-commerce platform built with Laravel
+  <br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+</p>
 
 ---
 
